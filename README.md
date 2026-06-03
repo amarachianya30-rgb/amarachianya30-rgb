@@ -1,62 +1,50 @@
-## Hi there, I'm [Your Name] 👋
+## Hi there, I'm Amarachi 👋
 
-<div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
-</div>
+Financial & Data Analyst | Economics Graduate
 
-<!-- 🔗 Update these links with your own social media and contact information -->
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile-url"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
-</p>
+  ### About Me  
+ 
+  Iam an Economics graduate with a growing interest in Financial Analysis, Data Analytics and Business Intelligence.
+  
+  I build projects using Power BI, Excel and SQL to analyze data, create dashboards and support data-driven decision-making.
+ 
+  Currently, I am expandig my skills in Business Analytics while developing a portfolio of analytical projects. I am seeking   to gain experience and contribute as a Financial Analyst or Data Analyst.
+ 
+  Nigeria
 
-## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+### Skills
+. Microsoft Excel
+. Power BI 
+. SQL
+. Data Cleaning
+. Data Visualization
+. Financial Analysis
+. Business Analysis
+. Reporting & Dashboards
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+### Featured Projects
 
-When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating content, hiking, mentoring others, etc.]. I love the "aha!" moment when data reveals something new and useful.
+### Sales Performance Dashboard 
+   Developed an interactive dashboard to analyze sales trends, revenue performance and key business metrics.
+### Apple Financial Analysis
+   Conducted financial analysis focused on revenue growth, profitability and overall business performance.
+### Hospital Performance Analysis Dashboard
+   Built a dashboard to evaluate healthcare operations, Patient metrics and organizational performance.
+### Food Delivery Analytics Dashboard 
+   Created a dashboard to monitor orders, delivery efficiency, customer activity and operational trends.
+### NEV Transport Operations Dashboard
+   Analyzed transportation data to assess operational efficiency, performance and business insights.
+   
+### Currently Learning
+ . Advanced Power BI Dashboards Design
+ . SQL for Data Analytics
+ . Business Analytics
+ . Financial Modelling Advanced 
+ . Data Storeytelling
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
-      
-## 🔭 What I'm Currently Working On 
+### Career Goals
+   My goal is to build a career at the intersection of finance, data and business strategy. I am developing expertise in Financial Analysis, Data Analytics and Business Intelligence through hands-on projects and continous learning. In the long term, I plan to pursue advanced studies in Business Analytics and earn professional finance qualifications while contributing to data-driven decision-making in organizations.
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
-- **Content Creation:** [e.g., Developing new tutorials on data visualization for my YouTube channel.]
-
-## 🌱 Currently Learning 
-
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
-
-## 🛠️ Technical Skillset
-
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
-
-#### Data Analysis & Visualization
-<p>
-  <!-- 💡 Go to Shields.io to create your own badges -->
-  <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
-  <img src="https://img.shields.io/badge/Power%20BI-Expert-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge">
-  <img src="https://img.shields.io/badge/Excel-Expert-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
-  <img src="https://img.shields.io/badge/Tableau-Intermediate-E97627?style=flat&logo=tableau&logoColor=white" alt="Tableau Skill Badge">
-</p>
-
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
-
-#### Business Intelligence & Analytics
-<p>
-  <img src="https://img.shields.io/badge/A%2FB%20Testing-Experienced-FF6B6B?style=flat" alt="A/B Testing Skill Badge">
-  <img src="https://img.shields.io/badge/Statistical%20Analysis-Experienced-4ECDC4?style=flat" alt="Statistical Analysis Skill Badge">
-  <img src="https://img.shields.io/badge/Predictive%20Modeling-Intermediate-45B7D1?style=flat" alt="Predictive Modeling Skill Badge">
-  <img src="https://img.shields.io/badge/KPI%20Development-Expert-96CEB4?style=flat" alt="KPI Development Skill Badge">
-</p>
+   ### Connect With Me
+     . LinkedIn: www.linkedin.com/in/amarachianya
+     . Email: amarachianya30@gmail.com
