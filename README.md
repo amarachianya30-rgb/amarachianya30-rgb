@@ -1,4 +1,4 @@
-## Hi there, I'm Amarachi 👋
+## Hi there, I'm Amarachi Anya👋
 
 Financial & Data Analyst | Economics Graduate
 
