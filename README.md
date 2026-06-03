@@ -4,7 +4,7 @@ Financial & Data Analyst | Economics Graduate
 
   ### About Me  
  
-  Iam an Economics graduate with a growing interest in Financial Analysis, Data Analytics and Business Intelligence.
+  I am an Economics graduate with a growing interest in Financial Analysis, Data Analytics and Business Intelligence.
   
   I build projects using Power BI, Excel and SQL to analyze data, create dashboards and support data-driven decision-making.
  
